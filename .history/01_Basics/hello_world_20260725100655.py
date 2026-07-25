@@ -2,4 +2,3 @@ print("hello world")
 #print function is used to print the output
 #("hello world") is a string and value
 print("hello world","my name is avish")
-print("hello world","\nmy name is avish")#\n use for new line
