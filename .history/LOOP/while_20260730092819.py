@@ -1,0 +1,19 @@
+# num = 1
+# while num <=5:
+#     print("avish",num)
+#     num += 1
+# print(num)
+
+# num1 = 5
+# while num1 >= 1:
+#     print("ab",num1)
+#     num1 -= 1
+
+# print(num1)
+
+# print 1 to 100
+
+num = 1
+while num >=100:
+    print(num)
+    num += 1
